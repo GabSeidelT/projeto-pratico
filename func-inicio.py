@@ -1,1 +1,1 @@
-echo "print('Suposto inicialização de sistema')"
+echo "print('Suposta inicialização de sistema')"
