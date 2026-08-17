@@ -1,0 +1,1 @@
+echo "print('Suposto inicialização de sistema')"
