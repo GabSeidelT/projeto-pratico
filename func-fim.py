@@ -1,0 +1,1 @@
+echo "print('Suposta finalização de sistema')"
